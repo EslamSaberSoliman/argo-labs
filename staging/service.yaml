@@ -4,7 +4,7 @@ metadata:
   name: vote
 spec:
   ports:
-  - name: "800"
+  - name: "80"
     nodePort: 30000
     port: 80
     protocol: TCP
