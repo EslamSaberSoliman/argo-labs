@@ -8,3 +8,6 @@ images:
 - name: eslamzaineldeen/vote
   newName: eslamzaineldeen/vote
   newTag: 841da7c
+- name: schoolofdevops/vote
+  newName: eslamzaineldeen/vote
+  newTag: 841da7c
